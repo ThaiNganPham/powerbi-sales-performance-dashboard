@@ -33,9 +33,11 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 - Monthly Sales/Profit/Order trend  
 - Sales/Profit/Order by Category and Segment  
 - Top 10 Products by Sales/Profit/Order and MoM% change
-<img src="images/report-sales.png" width="400">
-<img src="images/report_profit.png" width="400">
-<img src="images/report-orders.png" width="400">
+<p align="center">
+  <img src="images/report-sales.png" width="32%">
+  <img src="images/report_profit.png" width="32%">
+  <img src="images/report-orders.png" width="32%">
+</p>
 
 ## 🔍 Key Insights
 
