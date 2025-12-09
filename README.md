@@ -2,12 +2,37 @@
 This repository contains an interactive Power BI dashboard analyzing key sales metrics from the Global Superstore dataset.
 The dashboard focuses on Total Sales, Total Profit, Total Orders, and Gross Margin, with insights into category performance, customer segments, and top-performing products.
 
-📁 Dataset
-Global Superstore (Kaggle)
-🔗 https://www.kaggle.com/datasets/shekpaul/global-superstore/data
+## 📁 Dataset
 
-## 🛠 Tools Used
-Power BI
-Power Query
-DAX
-Excel
+**Source:** Global Superstore – Kaggle  
+➡️ https://www.kaggle.com/datasets/shekpaul/global-superstore/data  
+
+For this project, I only used the **Orders table** from the dataset, which includes:
+- Order ID, Order Date, Ship Date  
+- Customer, Segment, Country, City  
+- Category, Sub-Category, Product Name  
+- Sales, Quantity, Discount, Profit  
+Other tables (e.g. Returns, People) were **not used** in this dashboard.
+
+## 🛠 Tools
+- Power BI Desktop  
+- Power Query  
+- DAX  
+- Excel (for initial data inspection)
+
+## 🖼 Dashboard Preview
+
+### 🟢 Home Page  
+- Title, navigation buttons, and overall performance highlight
+
+
+### 🟡 Report Page  
+- KPI cards for Sales, Profit, Orders, Gross Margin  
+- Monthly Sales trend  
+- Sales by Category and Segment  
+- Top 10 Products by Sales and MoM% change
+
+
+## 🔍 Key Insights
+
+## 📌 Main DAX Measures
