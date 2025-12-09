@@ -1,7 +1,8 @@
 # Sales Performance Dashboard (Power BI – Global Superstore)
 This repository contains an interactive Power BI dashboard analyzing key sales metrics from the Global Superstore dataset.
 The dashboard focuses on Total Sales, Total Profit, Total Orders, and Gross Margin, with insights into category performance, customer segments, and top-performing products.
-https://app.powerbi.com/view?r=eyJrIjoiMGY3ZDFhZmUtYjU2MS00YTJkLWIyZmYtNmU0Y2Y2MzNmYzNmIiwidCI6ImVkOGYxNjczLTM4OTAtNGRiNC1hM2YwLTk3YWQ5NDI3Yzc0ZiIsImMiOjEwfQ%3D%3D
+🔗 **Live Dashboard**: [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMGY3ZDFhZmUtYjU2MS00YTJkLWIyZmYtNmU0Y2Y2MzNmYzNmIiwidCI6ImVkOGYxNjczLTM4OTAtNGRiNC1hM2YwLTk3YWQ5NDI3Yzc0ZiIsImMiOjEwfQ%3D%3D)
+
 
 ## 📁 Dataset
 
@@ -25,14 +26,16 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 
 ### 🟢 Home Page  
 - Title, navigation buttons, and overall performance highlight
-
+![Homepage](images/homepage.png)
 
 ### 🟡 Report Page  
 - KPI cards for Sales, Profit, Orders, Gross Margin  
-- Monthly Sales trend  
-- Sales by Category and Segment  
-- Top 10 Products by Sales and MoM% change
-
+- Monthly Sales/Profit/Order trend  
+- Sales/Profit/Order by Category and Segment  
+- Top 10 Products by Sales/Profit/Order and MoM% change
+<img src="images/report-sales.png" width="800">
+<img src="images/report_profit.png" width="800">
+<img src="images/report-orders.png" width="800">
 
 ## 🔍 Key Insights
 
