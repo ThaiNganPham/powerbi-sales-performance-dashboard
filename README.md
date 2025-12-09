@@ -36,7 +36,7 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 <p align="center">
   <img src="images/report-sales.png" width="32%">
   <img src="images/report_profit.png" width="32%">
-  <img src="images/report-orders.png" width="32%">
+  <img src="images/report-order.png" width="32%">
 </p>
 
 ## 🔍 Key Insights
