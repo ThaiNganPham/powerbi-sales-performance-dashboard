@@ -42,3 +42,20 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 ## 🔍 Key Insights
 
 ## 📌 Main DAX Measures
+Previous Sales = CALCULATE(
+    [Total Sales],
+    DATEADD('Calendar'[Order Month], -1, MONTH)
+)
+
+Max Sales = CALCULATE(
+    MAXX(
+        ALLSELECTED(Orders[Order Month]),
+        [All Sales]
+    )
+)*1.3
+
+All Sales = CALCULATE(
+    [Total Sales],
+    REMOVEFILTERS('Calendar'[Order Month])
+)
+Gross Margin = DIVIDE([Total Profit], [Total Sales])
