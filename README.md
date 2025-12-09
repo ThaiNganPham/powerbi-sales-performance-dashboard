@@ -26,16 +26,16 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 
 ### 🟢 Home Page  
 - Title, navigation buttons, and overall performance highlight
-![Homepage](images/homepage.png)
+<img src="images/homepage.png" width="600">
 
 ### 🟡 Report Page  
 - KPI cards for Sales, Profit, Orders, Gross Margin  
 - Monthly Sales/Profit/Order trend  
 - Sales/Profit/Order by Category and Segment  
 - Top 10 Products by Sales/Profit/Order and MoM% change
-<img src="images/report-sales.png" width="800">
-<img src="images/report_profit.png" width="800">
-<img src="images/report-orders.png" width="800">
+<img src="images/report-sales.png" width="400">
+<img src="images/report_profit.png" width="400">
+<img src="images/report-orders.png" width="400">
 
 ## 🔍 Key Insights
 
