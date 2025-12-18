@@ -8,13 +8,9 @@ The dashboard focuses on Total Sales, Total Profit, Total Orders, and Gross Marg
 
 **Source:** Global Superstore – Kaggle  
 ➡️ https://www.kaggle.com/datasets/shekpaul/global-superstore/data  
-
-For this project, I only used the **Orders table** from the dataset, which includes:
-- Order ID, Order Date, Ship Date  
-- Customer, Segment, Country, City  
-- Category, Sub-Category, Product Name  
-- Sales, Quantity, Discount, Profit  
-Other tables (e.g. Returns, People) were **not used** in this dashboard.
+Table used: Orders only
+Key attributes include order dates, customer segments, product categories, sales, profit, and discounts.
+(Other tables such as Returns and People were not required for this analysis.)
 
 ## 🛠 Tools
 - Power BI Desktop  
