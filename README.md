@@ -40,6 +40,11 @@ Other tables (e.g. Returns, People) were **not used** in this dashboard.
 </p>
 
 ## 🔍 Key Insights
+- 𝗦𝗮𝗹𝗲𝘀 𝗽𝗲𝗮𝗸𝗲𝗱 𝗶𝗻 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟭𝟱, while 𝗽𝗿𝗼𝗳𝗶𝘁 𝗽𝗲𝗮𝗸𝗲𝗱 𝗲𝗮𝗿𝗹𝗶𝗲𝗿 𝗶𝗻 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 ($𝟰𝟬𝟰𝗞), highlighting the trade-off between revenue growth and margin quality.
+- From 𝗔𝘂𝗴𝘂𝘀𝘁 𝘁𝗼 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿, sales showed the strongest upward momentum, reflecting pre–year-end demand buildup.
+- Growth during this period was largely 𝗰𝗮𝗺𝗽𝗮𝗶𝗴𝗻-𝗱𝗿𝗶𝘃𝗲𝗻 (𝗲.𝗴. 𝗕𝗹𝗮𝗰𝗸 𝗙𝗿𝗶𝗱𝗮𝘆), where increased discounting boosted volume but put 𝗽𝗿𝗲𝘀𝘀𝘂𝗿𝗲 𝗼𝗻 𝗺𝗮𝗿𝗴𝗶𝗻𝘀.
+- 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 consistently led revenue across months, remaining the 𝘁𝗼𝗽-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆.
+- The 𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿 𝘀𝗲𝗴𝗺𝗲𝗻𝘁 contributed a larger share of total sales during year-end (~52–59%), but dropped to around ~47% in early months, indicating 𝗵𝗶𝗴𝗵𝗲𝗿 𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗶𝘁𝘆 to promotions.
 
 ## 📌 Main DAX Measures
 Previous Sales = CALCULATE(
